@@ -1,0 +1,52 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <title>Text Styler MVP</title>
+  <meta name="description" content="MVP for a text styler">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <script src="https://unpkg.com/react@17.0.2/umd/react.production.min.js"></script>
+  <script src="https://unpkg.com/react-dom@17.0.2/umd/react-dom.production.min.js"></script>
+
+  <!-- Styles for the App -->
+  <style>
+    html {
+      font-family: Helvetica, sans-serif;
+    }
+
+    .appContainer {
+      max-width: 48rem;
+      margin: auto;
+      padding: 2rem;
+    }
+
+    .stylerHeader {
+      text-align: center;
+      font-size: 3rem;
+    }
+  </style>
+</head>
+
+<body>
+
+  <main id="app"></main>
+  <!-- App JS -->
+  <script type="text/babel">
+    const App = () => {
+      return (
+        <div class="appContainer">
+          <h1 className="stylerHeader">Text Styler</h1>
+        </div>
+
+      )
+    }
+
+    const appMount = document.getElementById('app');
+    ReactDOM.render(<App />, appMount);
+  </script>
+
+</body>
+
+</html>
