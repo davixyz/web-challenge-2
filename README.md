@@ -12,7 +12,8 @@ Welcome to this Web Challenge! we will be using:
 We want to build a minimum value product for a text styler where we can select a style option, write some text, and display the styled text on the screen.
 
 Here's an example of the end product:
-![Text Styler Image](https://res.cloudinary.com/carlosdev/image/upload/v1643522524/web-challenge/textStylerWithValues_ckessi.png)
+<br /><br />
+<img src="https://res.cloudinary.com/carlosdev/image/upload/v1643522524/web-challenge/textStylerWithValues_ckessi.png" width="400"/>
 
 ## Functionality
 
@@ -31,11 +32,12 @@ Here's an example of the end product:
 
 ## Video of the Functionality
 
-https://res.cloudinary.com/carlosdev/video/upload/v1643522394/web-challenge/textStylerVideo_oinrzb.mp4
+https://user-images.githubusercontent.com/4756314/151688778-d0848bad-ef33-4307-9ca1-e824ada25816.mp4
+
 
 ## Reference UI Screen
 
-![Text Styler Image](https://res.cloudinary.com/carlosdev/image/upload/v1643522373/web-challenge/textStyler_wkgxlp.png)
+<img src="https://res.cloudinary.com/carlosdev/image/upload/v1643522373/web-challenge/textStyler_wkgxlp.png" width="480"/>
 
 ## Tips and Notes
 
