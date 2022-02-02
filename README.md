@@ -1,4 +1,4 @@
-# web-challenge
+# web-challenge-2
 
 Welcome to this Web Challenge! we will be using:
 
